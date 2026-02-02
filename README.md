@@ -236,4 +236,4 @@ Problemas comunes:
 ---
 
 **Desarrollado por Rebot** 🤖
-<!-- deploy trigger -->
+ trigger deploy
